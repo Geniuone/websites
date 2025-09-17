@@ -1,4 +1,6 @@
-# User manual
+120FPS
+90FPS
+
 
 [[toc]]
 
